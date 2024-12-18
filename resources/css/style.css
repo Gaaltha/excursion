@@ -1,0 +1,19 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+/* body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    text-align: center;
+} */
+
+/* Head Section */
+
+header a {
+    text-decoration: underline;
+    font-size: 16px;
+    color: aquamarine;
+}
