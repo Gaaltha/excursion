@@ -1,7 +1,10 @@
 html {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 50px;
+    font-size: 42px;
+    font-weight: 300;
     text-align: center;
+    color: white;
+    background: black;
 }
 
 /* body {
@@ -12,8 +15,35 @@ html {
 
 /* Head Section */
 
-header a {
+.link {
     text-decoration: underline;
     font-size: 16px;
     color: aquamarine;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+/* Main Section */
+figcaption {
+    font-size: 21px;
+    color: gray;
+}
+
+img {
+    padding: 5px;
+}
+
+#camp {
+    width: 75%;
+    height: auto;
+}
+
+/* Footer */
+footer {
+    text-align: right;
+    color: gray;
+    font-size: 16px;
 }
